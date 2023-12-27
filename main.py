@@ -1,6 +1,5 @@
 import os
 import json
-from jsam import CONFIG_FILE_PATH
 from common.constants import CONFIG_FILE_PATH
 
 
